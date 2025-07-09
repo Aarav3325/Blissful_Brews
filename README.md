@@ -22,24 +22,24 @@
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/Screenshot_20250516_192427.png" alt="Home Screen 1" width="30%" />
-  <img src="screenshots/Screenshot_20250516_192552.png" alt="Home Screen 2" width="30%" />
-  <img src="screenshots/Screenshot_20250516_192609.png" alt="Cart Activity Screen" width="30%" />
+  <img src="screenshots/Screenshot_20250516_192427.png" alt="Home Screen 1" width="25%" />
+  <img src="screenshots/Screenshot_20250516_192552.png" alt="Home Screen 2" width="25%" />
+  <img src="screenshots/Screenshot_20250516_192609.png" alt="Cart Activity Screen" width="25%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/Screenshot_20250516_192629.png" alt="Order Tracking" width="30%" />
-  <img src="screenshots/Screenshot_20250516_192638.png" alt="Order Summary" width="30%" />
-  <img src="screenshots/Screenshot_20250516_192652.png" alt="Profile Screen" width="30%" />
+  <img src="screenshots/Screenshot_20250516_192629.png" alt="Order Tracking" width="25%" />
+  <img src="screenshots/Screenshot_20250516_192638.png" alt="Order Summary" width="25%" />
+  <img src="screenshots/Screenshot_20250516_192652.png" alt="Profile Screen" width="25%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="screenshots/Screenshot_20250516_192700.png" alt="Recent Orders" width="40%" />
-  <img src="screenshots/Screenshot_20250516_192713.png" alt="Favourite Dishes" width="40%" />
+  <img src="screenshots/Screenshot_20250516_192700.png" alt="Recent Orders" width="25%" />
+  <img src="screenshots/Screenshot_20250516_192713.png" alt="Favourite Dishes" width="25%" />
 </p>
 
 
