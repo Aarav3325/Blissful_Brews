@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blissfull Brews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="google_sign_web_client_id">1037942784085-2sahc434qhmbr2up8n7sldj5lmhpchi3.apps.googleusercontent.com</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancellation">Help us reduce food waste by avoiding cancellations after placing your order. A 100% cancellation fee will be applied.</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_new_mmenu">NewMmenu</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+
+
+</resources>

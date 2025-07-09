@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037942784085",
+    "firebase_url": "https://firestoredemo-f6608-default-rtdb.firebaseio.com",
+    "project_id": "firestoredemo-f6608",
+    "storage_bucket": "firestoredemo-f6608.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037942784085:android:c0892d38ec869e4918d4dc",
+        "android_client_info": {
+          "package_name": "com.brews.cafeorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037942784085-faje32g67clb97c6rd7lkvs75gloi2de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brews.cafeorderingapp",
+            "certificate_hash": "87a6e5304e38676e6bc7837c9d8e00b8feb01b83"
+          }
+        },
+        {
+          "client_id": "1037942784085-tvq81buj17666tjvdmfid76kifbrgemp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyNerL8YrHGcbPOvOS6vE2Gx01prkBDUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037942784085-tvq81buj17666tjvdmfid76kifbrgemp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
