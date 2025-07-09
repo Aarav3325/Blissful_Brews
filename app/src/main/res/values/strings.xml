@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Blissfull Brews</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="google_sign_web_client_id">1037942784085-2sahc434qhmbr2up8n7sldj5lmhpchi3.apps.googleusercontent.com</string>
+    <string name="google_sign_web_client_id">1037942784085-tvq81buj17666tjvdmfid76kifbrgemp.apps.googleusercontent.com</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="cancellation">Help us reduce food waste by avoiding cancellations after placing your order. A 100% cancellation fee will be applied.</string>
