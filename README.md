@@ -1,6 +1,6 @@
-# Blissfull Brews - Cafe Ordering System
+# Blissful Brews - Cafe Ordering System
 
-**Blissfull Brews** is a cafe ordering system app that allows customers to browse through a menu, add items to the cart, modify the cart, and proceed to checkout. This project leverages **Firebase** for real-time data synchronization and **Glide** for image loading, ensuring a smooth and responsive experience.
+**Blissful Brews** is a cafe ordering system app that allows customers to browse through a menu, add items to the cart, modify the cart, and proceed to checkout. This project leverages **Firebase** for real-time data synchronization and **Glide** for image loading, ensuring a smooth and responsive experience.
 
 ## Features
 
